@@ -1,4 +1,4 @@
-<h1 align="center">Fixed Key Ganache Example</h1>
+<h1 align="center">Ganache Docker Example</h1>
 <p align="center">Ganache local chain Dockerfile and docker-compose example set with fixed private key</p>
 <div align="center">
 
@@ -7,8 +7,8 @@
 ## Getting Started
 
 ```
-git clone https://github.com/ft-jasong/fix-key-ganache-docker.git
-cd fix-key-ganache-docker
+git clone https://github.com/ft-jasong/ganache-docker-example.git
+cd ganache-docker-example
 ```
 
 ### Start with Dockerfile
