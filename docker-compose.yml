@@ -7,7 +7,7 @@ services:
       args:
         - NODE_VERSION=hydrogen # Put the version of node you want here
         - GANACHE_VERSION=7.9.1 # Put the version of ganache you want here
-        - PRIV_KEY=0xe5127005b33e35e669aec6f463adc2c1eac00710bdfc299e0c0f46f786c5197a # Put your private key here, ex: 0xe5127005b33e35e669aec6f463adc2c1eac00710bdfc299e0c0f46f786c5197a
+        - PRIV_KEY=0xe5127005b33e35e669aec6f463adc2c1eac00710bdfc299e0c0f46f786c5197a # Put your private key here
         - INIT_WEI=1000000000000000000000 # Put the amount of wei you want to initialize your account with here
     ports:
       - "8545:8545"
