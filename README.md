@@ -1,5 +1,5 @@
 <h1 align="center">Ganache Docker Example</h1>
-<p align="center">Ganache local chain Dockerfile and docker-compose example set with fixed private key</p>
+<p align="center">Ganache local chain with fixed private key Dockerfile and docker-compose example</p>
 <div align="center">
 
 </div>
